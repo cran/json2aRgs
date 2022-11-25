@@ -1,0 +1,12 @@
+9436841d02055c320c6ea47728c80a26 *DESCRIPTION
+c90155f0cc55cdc804582f35a7ae1a03 *NAMESPACE
+ad9b4b596b4ec2e4ee645e5c5672d842 *NEWS.md
+fc4827ef406a6713f4d1971d77c20c05 *R/get_parameters.R
+a946bf27b472feca7b9e26288bdb7d90 *README.md
+91bc581a6a5744c4098322fab2c0269e *man/get_parameters.Rd
+de39c9b46363421076757cf2d371f064 *tests/testthat.R
+12f839e2824979aeab89680306cfa896 *tests/testthat/test-get_parameters.R
+cddca721b63795e6f2bb02d5be0347ed *tests/testthat/testdata/in/foo_csv.csv
+85f16fa01655038778b790967d7a655c *tests/testthat/testdata/in/foo_matrix.dat
+73a68cdf0ac66f3c6cfaf089626db160 *tests/testthat/testdata/in/parameters.json
+6aef3fc977c738da89ba544e384a662c *tests/testthat/testdata/src/tool.yml
